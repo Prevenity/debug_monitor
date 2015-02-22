@@ -117,5 +117,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	CloseHandle(hEventDataReady);
 	//CloseHandle(hMutex);
 	//hMutex = 0;
+
 	return 0;
 }
